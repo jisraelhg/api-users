@@ -45,3 +45,9 @@ La base de datos se construye de forma automática tomando el script de creacion
   ]
 }
 ```
+## Diagramas de solución
+
+![create_users](https://github.com/jisraelhg/api-users/blob/main/src/main/resources/Usuarios_ds_01CrearUsuario.png?raw=true)
+
+![get_users](https://github.com/jisraelhg/api-users/blob/main/src/main/resources/Usuarios_ds_02ConsultarUsuarios.png?raw=true)
+
